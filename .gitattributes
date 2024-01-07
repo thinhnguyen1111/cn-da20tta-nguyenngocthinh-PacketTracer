@@ -1,0 +1,2 @@
+src/Pack filter=lfs diff=lfs merge=lfs -text
+SETUP/PacketTracer/CiscoPacketTracer_820_Windows_64bit.exe filter=lfs diff=lfs merge=lfs -text
